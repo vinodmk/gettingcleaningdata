@@ -17,8 +17,8 @@
 
 ## Processing
 
-Note: Steps here are steps from the project assignment.
-Since it made sense to me do step 4 before step 3 they are swapped
+**Note: Steps here are the steps from the project assignment.
+Since it made sense to me do step 4 before step 3 they are swapped**
 
 ### Step 1: 
 1. Merge Train & Test datasets
