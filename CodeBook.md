@@ -40,10 +40,10 @@ Since it made sense to me do step 4 before step 3 they are swapped**
 1. Assign proper labels to each of the activity
 2. Add the Activity column to our dataset
 
-### Step 5: From the data set in step 4, creates a second, independent tidy data set 
-1. with the average of each variable for each activity and each subject.
-2. uses simple aggregate function
-3. write out the results
+### Step 5: From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+1. Done with aggregate function
+3. write out the tidyData.txt
+
 
 
 
